@@ -42,10 +42,10 @@ These approaches help investigate **the structural impact of sequence variations
 
 Interest in applying **machine learning approaches to biological datasets**, particularly for:
 
-* genomic feature analysis
-* predictive modelling
-* biomarker discovery
-* high-dimensional biological data processing
+* Genomic Feature Analysis
+* Predictive Modelling
+* Biomarker Discovery
+* High-dimensional Biological Data Processing
 
 This involves building **data preprocessing pipelines, feature extraction workflows, and model evaluation frameworks** in Python.
 
