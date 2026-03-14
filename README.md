@@ -91,6 +91,20 @@ Experience in **organising large biological datasets into structured resources**
 
 ---
 
+## 📚 Publications
+
+**1.** Kaushik, L., Vivek, A., Arora, S., Hamid, F., Mukherjee, K., Bisht, N., Chaudhary, S., Shukla, J., Nawani, S., & Kumar, S. (2026).
+*The Intersection of AI and Genomics in Health and Disease: Advancements and Applications.*
+**Progress in Molecular Biology and Translational Science.**
+https://doi.org/10.1016/bs.pmbts.2026.01.013
+
+**2.** Vivek, A. T., Bhatia, M., Sahu, N., Kaushik, L., et al. (2026).
+*AraNSdb: A Dedicated Database of Stress-Responsive Non-coding RNAs in Arabidopsis thaliana.*
+**3 Biotech, 16, 90.**
+https://doi.org/10.1007/s13205-026-04708-z
+
+---
+
 ## 🌱 Research Interests
 
 My research interests lie in the application of computational approaches to understand biological systems, particularly in:
