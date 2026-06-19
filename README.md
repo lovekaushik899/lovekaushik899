@@ -103,6 +103,11 @@ https://doi.org/10.1016/bs.pmbts.2026.01.013
 **3 Biotech, 16, 90.**
 https://doi.org/10.1007/s13205-026-04708-z
 
+**3.** Hamid, F., Mukherjee, K., Chaudhary, S., Kaushik, L., & Kumar, S. (2026).
+*PFGPred: A Stack Ensemble Classifier for the Identification of Fusion Genes in Plants.*
+**DNA Research**, dsag005.
+https://doi.org/10.1093/dnares/dsag005
+
 ---
 
 ## 🌱 Research Interests
