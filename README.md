@@ -1,139 +1,149 @@
-<!-- HEADER BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=220&section=header&text=Love%20Kaushik&fontSize=70&fontColor=00f2fe&animation=fadeIn&fontAlignY=38" width="100%" />
-  
-  <!-- TYPING ANIMATION -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Software+Engineer+%26+Architect;Data+Pipeline+%26+Mining+Expert;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
-  </a>
-</div>
+---
 
-<br />
+# Love Kaushik
 
-<!-- QUICK SOCIAL BADGES -->
-<div align="center">
-  <a href="https://linkedin.com/in/lovekaushik">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lovekaushik899@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/lovekaushik899">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-<br />
+Bioinformatics | Computational Biology | Structural Bioinformatics | Machine Learning in Genomics
 
 ---
 
-<!-- ABOUT ME SECTION -->
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3>⚡ About Me</h3>
-      <ul>
-        <li>🔭 Currently architecting high-efficiency data extraction systems like <b>StructuraMiner</b>.</li>
-        <li>💻 Passionate about building performant backends, data pipelines, and scalable tools.</li>
-        <li>🌱 Continuously learning advanced system design, low-level optimizations, and modern cloud stacks.</li>
-        <li>💬 Ask me about <b>Python, C++, Data Mining & Web Scraping Architectures</b>.</li>
-        <li>⚡ Fun fact: I love transforming complex, unstructured data into clean, actionable insights!</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovekaushik899&layout=compact&theme=tokyonight&hide_border=true&card_width=320" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+## 👋 Introduction
 
-<br />
+Welcome to my GitHub profile.
 
-<!-- TECH STACK SECTION -->
-<h3 align="center">🛠️ Tech Stack & Tooling</h3>
+I am a **Bioinformatics graduate with an M.Sc. in Bioinformatics**, working at the interface of **computational biology, genomics, and data science**. My work focuses on applying **computational methods, data analysis, and machine learning techniques** to address complex biological questions.
 
-<div align="center">
+Through academic research and project-based work, I have developed experience in **structural bioinformatics, genomics data analysis, molecular dynamics simulations, and biological database development**. I primarily work in **Python, R, and Linux-based environments**, building reproducible computational pipelines for analysing biological data.
 
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-  <br />
-
-  <!-- Frameworks & Tools -->
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-</div>
-
-<br />
+My broader goal is to contribute to research that advances our understanding of **genomic regulation, molecular mechanisms of disease, and computational approaches in life sciences**.
 
 ---
 
-<!-- FEATURED PROJECTS -->
-<h3>🚀 Featured Projects</h3>
+## 🧬 Areas of Expertise
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💎 StructuraMiner</h3>
-      <p align="center">
-        Complete multi-level extraction pipeline designed for raw structured & unstructured data mining.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Data_Mining-00f2fe?style=flat-square" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/lovekaushik899/StructuraMiner"><b>Explore Repository »</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Project Two</h3>
-      <p align="center">
-        Add your second featured flagship repository summary here with direct value proposition.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Backend-339933?style=flat-square" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/lovekaushik899"><b>Explore Repository »</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+### Computational Genomics and RNA Biology
 
-<br />
+Experience in analysing **large-scale biological datasets** to investigate regulatory mechanisms in genomes, with particular interest in **non-coding RNA biology and stress response pathways**. Work in this area involves integration of **high-throughput sequencing data, literature mining, and structured data organisation** for biological interpretation.
+
+### Structural Bioinformatics and Protein Analysis
+
+Experience in studying **protein structure, stability, and functional dynamics** using computational approaches. This includes the use of **protein structure prediction, structural validation tools, and molecular visualisation platforms** to investigate how structural changes influence biological function.
+
+### Molecular Dynamics Simulations
+
+Application of **molecular dynamics simulations** to analyse structural behaviour of biomolecules over time. This includes performing simulations, trajectory analysis, and structural evaluation using parameters such as:
+
+* Root Mean Square Deviation (RMSD)
+* Radius of Gyration (Rg)
+* Structural stability and conformational dynamics
+
+These approaches help investigate **the structural impact of sequence variations and mutations on protein function**.
+
+### Machine Learning in Biological Data Analysis
+
+Interest in applying **machine learning approaches to biological datasets**, particularly for:
+
+* Genomic Feature Analysis
+* Predictive Modelling
+* Biomarker Discovery
+* High-dimensional Biological Data Processing
+
+This involves building **data preprocessing pipelines, feature extraction workflows, and model evaluation frameworks** in Python.
+
+### Biological Database Development
+
+Experience in **organising large biological datasets into structured resources** and designing systems that enable efficient querying and exploration of biological information. This includes integrating heterogeneous datasets and creating **research-friendly data access frameworks**.
 
 ---
 
-<!-- GITHUB ANALYTICS -->
-<h3 align="center">📊 GitHub Metrics & Activity</h3>
+## 🧰 Technical Skills
 
-<div align="center">
-  <a href="https://github.com/lovekaushik899">
-    <img src="https://github-readme-stats.vercel.app/api?username=lovekaushik899&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/lovekaushik899">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lovekaushik899&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-  </a>
-</div>
+### Programming and Data Analysis
 
-<br />
+* Python
+* R
+* SQL / MySQL
+* Linux / Bash scripting
 
-<!-- FOOTER SNAKE / ANIMATION -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lovekaushik899/lovekaushik899/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+### Bioinformatics and Computational Biology
 
-<hr />
+* Genomics data analysis
+* Sequence analysis
+* Structural bioinformatics
+* Molecular docking
+* Molecular dynamics simulations
+* Biological database development
 
-<div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/lovekaushik899">Love Kaushik</a>. Shared under MIT License.</sub>
-</div>
+### Bioinformatics Tools
+
+* **GROMACS** – Molecular dynamics simulations
+* **PyMOL** – Molecular visualisation
+* **UCSF Chimera** – Structural analysis and visualisation
+* **AutoDock** – Molecular docking simulations
+* **VMD** – Molecular dynamics trajectory analysis
+* **PROCHECK** – Protein structure validation
+
+### Computational Methods
+
+* Machine learning for biological datasets
+* High-throughput data processing
+* Statistical analysis of biological data
+* Data integration and workflow development
+
+---
+
+## 📚 Publications
+
+**1.** Kaushik, L., Vivek, A., Arora, S., Hamid, F., Mukherjee, K., Bisht, N., Chaudhary, S., Shukla, J., Nawani, S., & Kumar, S. (2026).
+*The Intersection of AI and Genomics in Health and Disease: Advancements and Applications.*
+**Progress in Molecular Biology and Translational Science.**
+https://doi.org/10.1016/bs.pmbts.2026.01.013
+
+**2.** Vivek, A. T., Bhatia, M., Sahu, N., Kaushik, L., et al. (2026).
+*AraNSdb: A Dedicated Database of Stress-Responsive Non-coding RNAs in Arabidopsis thaliana.*
+**3 Biotech, 16, 90.**
+https://doi.org/10.1007/s13205-026-04708-z
+
+**3.** Hamid, F., Mukherjee, K., Chaudhary, S., Kaushik, L., & Kumar, S. (2026).
+*PFGPred: A Stack Ensemble Classifier for the Identification of Fusion Genes in Plants.*
+**DNA Research**, dsag005.
+https://doi.org/10.1093/dnares/dsag005
+
+---
+
+## 🌱 Research Interests
+
+My research interests lie in the application of computational approaches to understand biological systems, particularly in:
+
+* Computational genomics
+* Non-coding RNA biology
+* Structural bioinformatics
+* Molecular dynamics simulations
+* Machine learning in life sciences
+* Computational approaches in precision medicine
+
+---
+
+## 💻 What You Will Find Here
+
+This GitHub profile contains projects and code related to:
+
+* Bioinformatics pipelines
+* Biological data analysis workflows
+* Structural bioinformatics tools
+* Machine learning applications in genomics
+* Reproducible computational research
+
+---
+
+## 📫 Contact
+
+If you are interested in collaboration, research discussions, or computational biology projects, feel free to connect.
+
+📧 **Email**
+[lovekaushik271@gmail.com](mailto:lovekaushik271@gmail.com)
+
+---
+
+⭐ *This repository space reflects my ongoing work in computational biology, data-driven life science research, and bioinformatics tool development.*
+
+---
