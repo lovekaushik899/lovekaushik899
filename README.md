@@ -1,235 +1,149 @@
-<div align="center">
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,35:0891b2,70:7c3aed,100:c026d3&height=230&section=header&text=LOVE%20KAUSHIK&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=%3C%20AI%20x%20GENOMICS%20%7C%20PLAYER%20PROFILE%20%3E&descAlignY=58&descSize=17&fontFamily=Consolas" width="100%"/>
+# Love Kaushik
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=800&color=39FF88&center=true&vCenter=true&width=820&height=32&lines=%3E+BOOTING+BIOINFORMATICS_AI.SYS...;%3E+LOADING+GENOME+MODULES+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E+STATUS%3A+ONLINE+%E2%80%94+READY+PLAYER+ONE" />
+Bioinformatics | Computational Biology | Structural Bioinformatics | Machine Learning in Genomics
 
-<br/>
+---
 
-![Type](https://img.shields.io/badge/CLASS-Computational_Biologist-0a0e27?style=for-the-badge&labelColor=000000&color=0891b2)
-![Spec](https://img.shields.io/badge/SPEC-AI_×_Genomics-0a0e27?style=for-the-badge&labelColor=000000&color=c026d3)
-![Level](https://img.shields.io/badge/LEVEL-M.Sc._Bioinformatics-0a0e27?style=for-the-badge&labelColor=000000&color=7c3aed)
-![Status](https://img.shields.io/badge/STATUS-Online-0a0e27?style=for-the-badge&labelColor=000000&color=39FF88)
+## 👋 Introduction
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:7c3aed,100:c026d3&height=3&section=header" width="100%"/>
+Welcome to my GitHub profile.
 
-</div>
+I am a **Bioinformatics graduate with an M.Sc. in Bioinformatics**, working at the interface of **computational biology, genomics, and data science**. My work focuses on applying **computational methods, data analysis, and machine learning techniques** to address complex biological questions.
 
-<br/>
+Through academic research and project-based work, I have developed experience in **structural bioinformatics, genomics data analysis, molecular dynamics simulations, and biological database development**. I primarily work in **Python, R, and Linux-based environments**, building reproducible computational pipelines for analysing biological data.
 
-## 🕹️ CHARACTER SHEET
+My broader goal is to contribute to research that advances our understanding of **genomic regulation, molecular mechanisms of disease, and computational approaches in life sciences**.
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+---
 
-```yaml
-player:      Love Kaushik
-class:       Computational Biologist
-specialization: AI × Genomics
-base:        Delhi, NCR, India
-current_quest: >
-  Building AI models that decode
-  genomic regulation & disease
-alignment:   "Biology is data.
-              AI is how we read it."
-guild:       M.Sc. Bioinformatics
-```
+## 🧬 Areas of Expertise
 
-</td>
-<td width="45%" valign="top">
+### Computational Genomics and RNA Biology
 
-![Email](https://img.shields.io/badge/-lovekaushik271@gmail.com-000000?style=flat-square&logo=gmail&logoColor=39FF88)
-![ORCID](https://img.shields.io/badge/-ORCID_ID-000000?style=flat-square&logo=orcid&logoColor=A6CE39)
-![Blog](https://img.shields.io/badge/-Sequence_Stories-000000?style=flat-square&logo=blogger&logoColor=FF5CE8)
-![Location](https://img.shields.io/badge/-Delhi_NCR-000000?style=flat-square&logo=googlemaps&logoColor=22E8FF)
+Experience in analysing **large-scale biological datasets** to investigate regulatory mechanisms in genomes, with particular interest in **non-coding RNA biology and stress response pathways**. Work in this area involves integration of **high-throughput sequencing data, literature mining, and structured data organisation** for biological interpretation.
 
-**[✉️ Email](mailto:lovekaushik271@gmail.com)** · **[🔗 ORCID](https://orcid.org/0009-0002-1375-818X)** · **[📖 Blog](https://sequencestories.blogspot.com/)**
+### Structural Bioinformatics and Protein Analysis
 
-</td>
-</tr>
-</table>
+Experience in studying **protein structure, stability, and functional dynamics** using computational approaches. This includes the use of **protein structure prediction, structural validation tools, and molecular visualisation platforms** to investigate how structural changes influence biological function.
 
-<br/>
+### Molecular Dynamics Simulations
 
-## 📊 SKILL TREE
+Application of **molecular dynamics simulations** to analyse structural behaviour of biomolecules over time. This includes performing simulations, trajectory analysis, and structural evaluation using parameters such as:
 
-<div align="center">
-<img src="assets/skill-tree.svg" width="100%"/>
-<sub>⚠️ Animated stat bars — render live on GitHub once <code>assets/skill-tree.svg</code> is pushed alongside this README.</sub>
-</div>
+* Root Mean Square Deviation (RMSD)
+* Radius of Gyration (Rg)
+* Structural stability and conformational dynamics
 
-<br/>
+These approaches help investigate **the structural impact of sequence variations and mutations on protein function**.
 
-## 🎯 QUEST LOG — Research Interests
+### Machine Learning in Biological Data Analysis
 
-<table width="100%">
-<tr>
-<td width="50%">
+Interest in applying **machine learning approaches to biological datasets**, particularly for:
 
-![Active](https://img.shields.io/badge/ACTIVE_QUEST-Computational_Genomics-0a0e27?style=flat-square&labelColor=000&color=0891b2)
-<br/><sub>Non-coding RNA biology & stress-response regulation</sub>
+* Genomic Feature Analysis
+* Predictive Modelling
+* Biomarker Discovery
+* High-dimensional Biological Data Processing
 
-</td>
-<td width="50%">
+This involves building **data preprocessing pipelines, feature extraction workflows, and model evaluation frameworks** in Python.
 
-![Active](https://img.shields.io/badge/ACTIVE_QUEST-AI_for_Life_Sciences-0a0e27?style=flat-square&labelColor=000&color=c026d3)
-<br/><sub>ML for biomarker discovery & predictive modelling</sub>
+### Biological Database Development
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+Experience in **organising large biological datasets into structured resources** and designing systems that enable efficient querying and exploration of biological information. This includes integrating heterogeneous datasets and creating **research-friendly data access frameworks**.
 
-![Active](https://img.shields.io/badge/ACTIVE_QUEST-Structural_Bioinformatics-0a0e27?style=flat-square&labelColor=000&color=7c3aed)
-<br/><sub>Protein structure prediction & mutation impact</sub>
+---
 
-</td>
-<td width="50%">
+## 🧰 Technical Skills
 
-![Active](https://img.shields.io/badge/ACTIVE_QUEST-Precision_Medicine-0a0e27?style=flat-square&labelColor=000&color=39FF88)
-<br/><sub>Linking genotype, structure & clinical outcome</sub>
+### Programming and Data Analysis
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+* Python
+* R
+* SQL / MySQL
+* Linux / Bash scripting
 
-![Active](https://img.shields.io/badge/ACTIVE_QUEST-MD_Simulations-0a0e27?style=flat-square&labelColor=000&color=fdba74)
-<br/><sub>RMSD, radius of gyration, conformational stability</sub>
+### Bioinformatics and Computational Biology
 
-</td>
-<td width="50%">
+* Genomics data analysis
+* Sequence analysis
+* Structural bioinformatics
+* Molecular docking
+* Molecular dynamics simulations
+* Biological database development
 
-![Active](https://img.shields.io/badge/ACTIVE_QUEST-Biological_Databases-0a0e27?style=flat-square&labelColor=000&color=fde047)
-<br/><sub>Structured, queryable biological data resources</sub>
+### Bioinformatics Tools
 
-</td>
-</tr>
-</table>
+* **GROMACS** – Molecular dynamics simulations
+* **PyMOL** – Molecular visualisation
+* **UCSF Chimera** – Structural analysis and visualisation
+* **AutoDock** – Molecular docking simulations
+* **VMD** – Molecular dynamics trajectory analysis
+* **PROCHECK** – Protein structure validation
 
-<br/>
+### Computational Methods
 
-## 🎒 INVENTORY — Tech Stack
+* Machine learning for biological datasets
+* High-throughput data processing
+* Statistical analysis of biological data
+* Data integration and workflow development
 
-<div align="center">
+---
 
-**Core Weapons**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,r,mysql,linux,bash,git&theme=dark" />
+## 📚 Publications
 
-<br/><br/>
+**1.** Kaushik, L., Vivek, A., Arora, S., Hamid, F., Mukherjee, K., Bisht, N., Chaudhary, S., Shukla, J., Nawani, S., & Kumar, S. (2026).
+*The Intersection of AI and Genomics in Health and Disease: Advancements and Applications.*
+**Progress in Molecular Biology and Translational Science.**
+https://doi.org/10.1016/bs.pmbts.2026.01.013
 
-**Equipped Gear — Structural & Molecular Toolkit**
-<br/>
-![GROMACS](https://img.shields.io/badge/GROMACS-000000?style=for-the-badge&logoColor=39FF88)
-![PyMOL](https://img.shields.io/badge/PyMOL-000000?style=for-the-badge&logoColor=22E8FF)
-![AutoDock](https://img.shields.io/badge/AutoDock-000000?style=for-the-badge&logoColor=FF5CE8)
-![VMD](https://img.shields.io/badge/VMD-000000?style=for-the-badge&logoColor=7c3aed)
-![Chimera](https://img.shields.io/badge/UCSF_Chimera-000000?style=for-the-badge&logoColor=fdba74)
-![PROCHECK](https://img.shields.io/badge/PROCHECK-000000?style=for-the-badge&logoColor=fde047)
+**2.** Vivek, A. T., Bhatia, M., Sahu, N., Kaushik, L., et al. (2026).
+*AraNSdb: A Dedicated Database of Stress-Responsive Non-coding RNAs in Arabidopsis thaliana.*
+**3 Biotech, 16, 90.**
+https://doi.org/10.1007/s13205-026-04708-z
 
-**ML / Data Modules**
-<br/>
-<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=39FF88)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=22E8FF)
-![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=FF5CE8)
+**3.** Hamid, F., Mukherjee, K., Chaudhary, S., Kaushik, L., & Kumar, S. (2026).
+*PFGPred: A Stack Ensemble Classifier for the Identification of Fusion Genes in Plants.*
+**DNA Research**, dsag005.
+https://doi.org/10.1093/dnares/dsag005
 
-</div>
+---
 
-<br/>
+## 🌱 Research Interests
 
-## 🏆 ACHIEVEMENTS UNLOCKED — Publications
+My research interests lie in the application of computational approaches to understand biological systems, particularly in:
 
-<table width="100%">
-<tr>
-<td width="8%" align="center">🏅</td>
-<td>
+* Computational genomics
+* Non-coding RNA biology
+* Structural bioinformatics
+* Molecular dynamics simulations
+* Machine learning in life sciences
+* Computational approaches in precision medicine
 
-![Unlocked](https://img.shields.io/badge/ACHIEVEMENT_UNLOCKED-2026-FFD700?style=flat-square&labelColor=000000)
-<br/>
-**The Intersection of AI and Genomics in Health and Disease: Advancements and Applications**
-<br/>Kaushik, L., Vivek, A., Arora, S., Hamid, F., Mukherjee, K., Bisht, N., Chaudhary, S., Shukla, J., Nawani, S., & Kumar, S. (2026)
-<br/><i>Progress in Molecular Biology and Translational Science</i> · <a href="https://doi.org/10.1016/bs.pmbts.2026.01.013">doi.org/10.1016/bs.pmbts.2026.01.013</a>
+---
 
-</td>
-</tr>
-<tr>
-<td align="center">🏅</td>
-<td>
+## 💻 What You Will Find Here
 
-![Unlocked](https://img.shields.io/badge/ACHIEVEMENT_UNLOCKED-2026-FFD700?style=flat-square&labelColor=000000)
-<br/>
-**AraNSdb: A Dedicated Database of Stress-Responsive Non-coding RNAs in Arabidopsis thaliana**
-<br/>Vivek, A. T., Bhatia, M., Sahu, N., Kaushik, L., et al. (2026)
-<br/><i>3 Biotech, 16, 90</i> · <a href="https://doi.org/10.1007/s13205-026-04708-z">doi.org/10.1007/s13205-026-04708-z</a>
+This GitHub profile contains projects and code related to:
 
-</td>
-</tr>
-<tr>
-<td align="center">🏅</td>
-<td>
+* Bioinformatics pipelines
+* Biological data analysis workflows
+* Structural bioinformatics tools
+* Machine learning applications in genomics
+* Reproducible computational research
 
-![Unlocked](https://img.shields.io/badge/ACHIEVEMENT_UNLOCKED-2026-FFD700?style=flat-square&labelColor=000000)
-<br/>
-**PFGPred: A Stack Ensemble Classifier for the Identification of Fusion Genes in Plants**
-<br/>Hamid, F., Mukherjee, K., Chaudhary, S., Kaushik, L., & Kumar, S. (2026)
-<br/><i>DNA Research</i>, dsag005 · <a href="https://doi.org/10.1093/dnares/dsag005">doi.org/10.1093/dnares/dsag005</a>
+---
 
-</td>
-</tr>
-</table>
+## 📫 Contact
 
-<br/>
+If you are interested in collaboration, research discussions, or computational biology projects, feel free to connect.
 
-## ⚔️ MISSIONS COMPLETED — Featured Projects
+📧 **Email**
+[lovekaushik271@gmail.com](mailto:lovekaushik271@gmail.com)
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
+---
 
-![Complete](https://img.shields.io/badge/STATUS-COMPLETE-39FF88?style=flat-square&labelColor=000000)
-<br/>**[FASTA‑Insight](https://github.com/lovekaushik899/FASTA-Insight)**
-<br/><sub>Python/Bash toolkit for sequence stats, composition profiling, GC content & k‑mer frequency analysis.</sub>
+⭐ *This repository space reflects my ongoing work in computational biology, data-driven life science research, and bioinformatics tool development.*
 
-</td>
-<td width="33%" valign="top">
-
-![Complete](https://img.shields.io/badge/STATUS-COMPLETE-39FF88?style=flat-square&labelColor=000000)
-<br/>**[FeatureFlow‑ML](https://github.com/lovekaushik899/FeatureFlow-ML)**
-<br/><sub>Automated ML pipelines with built-in statistical checks, outlier detection & feature normalisation.</sub>
-
-</td>
-<td width="33%" valign="top">
-
-![Complete](https://img.shields.io/badge/STATUS-COMPLETE-39FF88?style=flat-square&labelColor=000000)
-<br/>**[BioLove](https://github.com/lovekaushik899/BioLove)**
-<br/><sub>FASTA feature extraction & dataset construction using IFS and Recursive Feature Elimination.</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:7c3aed,100:c026d3&height=3&section=header" width="100%"/>
-
-## 🎮 PRESS START TO CONNECT
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=600&color=22E8FF&center=true&vCenter=true&width=600&height=28&lines=%3E+INSERT+COIN+TO+COLLABORATE...;%3E+MULTIPLAYER+MODE%3A+OPEN" />
-
-[![Gmail](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39FF88)](mailto:lovekaushik271@gmail.com)
-[![ORCID](https://img.shields.io/badge/ORCID-000000?style=for-the-badge&logo=orcid&logoColor=A6CE39)](https://orcid.org/0009-0002-1375-818X)
-[![Blog](https://img.shields.io/badge/BLOG-000000?style=for-the-badge&logo=blogger&logoColor=FF5CE8)](https://sequencestories.blogspot.com/)
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lovekaushik899)
-
-<br/>
-
-<sub>⭐ <i>Computational biology, data-driven life science research, and bioinformatics tool development — in progress.</i></sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c026d3,35:7c3aed,70:0891b2,100:0a0e27&height=130&section=footer" width="100%"/>
+---
