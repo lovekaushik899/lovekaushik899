@@ -2,7 +2,7 @@
 
 # Love Kaushik
 
-Bioinformatics | Computational Biology | Structural Bioinformatics | Machine Learning in Genomics
+Bioinformatics | Computational Biology | Structural Bioinformatics | Machine Learning | Language Models 
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to my GitHub profile.
 
 I am a **Bioinformatics graduate with an M.Sc. in Bioinformatics**, working at the interface of **computational biology, genomics, and data science**. My work focuses on applying **computational methods, data analysis, and machine learning techniques** to address complex biological questions.
 
-Through academic research and project-based work, I have developed experience in **structural bioinformatics, genomics data analysis, molecular dynamics simulations, and biological database development**. I primarily work in **Python, R, and Linux-based environments**, building reproducible computational pipelines for analysing biological data.
+Through academic research and project-based work, I have developed experience in **structural bioinformatics, genomics data analysis, molecular dynamics simulations, and biological database development**. I primarily work in **Python, R, and Linux-based environments**, building reproducible computational pipelines for analyzing biological data.
 
 My broader goal is to contribute to research that advances our understanding of **genomic regulation, molecular mechanisms of disease, and computational approaches in life sciences**.
 
@@ -22,15 +22,15 @@ My broader goal is to contribute to research that advances our understanding of 
 
 ### Computational Genomics and RNA Biology
 
-Experience in analysing **large-scale biological datasets** to investigate regulatory mechanisms in genomes, with particular interest in **non-coding RNA biology and stress response pathways**. Work in this area involves integration of **high-throughput sequencing data, literature mining, and structured data organisation** for biological interpretation.
+Experience in analyzing **large-scale biological datasets** to investigate regulatory mechanisms in genomes, with particular interest in **non-coding RNA biology and stress response pathways**. Work in this area involves integration of **high-throughput sequencing data, literature mining, and structured data organisation** for biological interpretation.
 
 ### Structural Bioinformatics and Protein Analysis
 
-Experience in studying **protein structure, stability, and functional dynamics** using computational approaches. This includes the use of **protein structure prediction, structural validation tools, and molecular visualisation platforms** to investigate how structural changes influence biological function.
+Experience in studying **protein structure, stability, and functional dynamics** using computational approaches. This includes the use of **protein structure prediction, structural validation tools, and molecular visualization platforms** to investigate how structural changes influence biological function.
 
 ### Molecular Dynamics Simulations
 
-Application of **molecular dynamics simulations** to analyse structural behaviour of biomolecules over time. This includes performing simulations, trajectory analysis, and structural evaluation using parameters such as:
+Application of **molecular dynamics simulations** to analyse structural behavior of biomolecules over time. This includes performing simulations, trajectory analysis, and structural evaluation using parameters such as:
 
 * Root Mean Square Deviation (RMSD)
 * Radius of Gyration (Rg)
@@ -114,9 +114,9 @@ https://doi.org/10.1093/dnares/dsag005
 
 My research interests lie in the application of computational approaches to understand biological systems, particularly in:
 
-* Computational genomics
+* Structural Bioinformatics
 * Non-coding RNA biology
-* Structural bioinformatics
+* Computational Genomics
 * Molecular dynamics simulations
 * Machine learning in life sciences
 * Computational approaches in precision medicine
