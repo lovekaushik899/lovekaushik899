@@ -1,85 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0891b2&height=220&section=header&text=Love%20Kaushik&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Bioinformatics%20%7C%20Computational%20Biology%20%7C%20ML%20in%20Genomics&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,6,12,18,24&height=200&section=header&text=LOVE%20KAUSHIK&fontSize=46&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Where%20Genomics%20Meets%20Artificial%20Intelligence&descAlignY=62&descSize=16&fontFamily=monospace" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=0891B2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Turning+sequences+into+stories+%F0%9F%A7%AC;Modeling+proteins%2C+one+trajectory+at+a+time;Where+genomics+meets+machine+learning;M.Sc.+Bioinformatics+%7C+Delhi%2C+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=22D3AA&center=true&vCenter=true&width=760&height=40&lines=%3E+training+models+on+the+language+of+life;%3E+decoding+non-coding+RNA+with+ML;%3E+simulating+proteins%2C+atom+by+atom;%3E+building+AI+for+precision+medicine" />
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-lovekaushik271%40gmail.com-0891B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lovekaushik271@gmail.com)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--1375--818X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-1375-818X)
-[![Blog](https://img.shields.io/badge/Blog-Sequence%20Stories-1e3a5f?style=for-the-badge&logo=blogger&logoColor=white)](https://sequencestories.blogspot.com/)
-[![Location](https://img.shields.io/badge/Based%20in-Delhi%2C%20NCR-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+`ATGC` → `01` → `insight` — a computational biologist teaching machines to read biology.
 
-<img src="https://komarev.com/ghpvc/?username=lovekaushik899&label=Profile%20Views&color=0891b2&style=for-the-badge" alt="profile views"/>
+<br/>
+
+[![Email](https://img.shields.io/badge/lovekaushik271%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=22D3AA)](mailto:lovekaushik271@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-black?style=for-the-badge&logo=orcid&logoColor=A6CE39)](https://orcid.org/0009-0002-1375-818X)
+[![Blog](https://img.shields.io/badge/Sequence_Stories-black?style=for-the-badge&logo=blogger&logoColor=FF5722)](https://sequencestories.blogspot.com/)
+[![Delhi](https://img.shields.io/badge/Delhi_NCR-black?style=for-the-badge&logo=googlemaps&logoColor=EA4335)](#)
 
 </div>
 
 <br/>
 
-## 👋 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=22D3AA&height=2&section=header" width="100%"/>
 
-I'm a **Bioinformatics graduate (M.Sc.)** working at the intersection of **computational biology, genomics, and data science** — translating biological questions into computational problems, and computational results back into biological insight.
-
-```python
-class LoveKaushik:
-    def __init__(self):
-        self.role        = "Bioinformatics Researcher"
-        self.based_in    = "Delhi, NCR, India"
-        self.focus       = ["Structural Bioinformatics", "Genomics", "ML for Biology"]
-        self.tools       = ["Python", "R", "GROMACS", "PyMOL", "AutoDock", "VMD"]
-        self.currently   = "building reproducible pipelines for biological data"
-
-    def mission(self):
-        return "Decode genomic regulation & molecular mechanisms of disease through code."
-
-me = LoveKaushik()
-```
-
-- 🔬 Researching **non-coding RNA biology**, structural bioinformatics, and **molecular dynamics**
-- 🧠 Applying **machine learning** to genomic feature analysis & biomarker discovery
-- 🗄️ Building **structured biological databases** for research-friendly data access
-- ✍️ Published in *Progress in Molecular Biology and Translational Science*, *3 Biotech*, and *DNA Research*
-- 📫 Reach me at **lovekaushik271@gmail.com**
-
-<br/>
-
-## 🧬 Areas of Expertise
+## `01` &nbsp;THE INTERSECTION
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-### 🧫 Computational Genomics & RNA Biology
-Analysing large-scale biological datasets to investigate regulatory mechanisms, with a focus on **non-coding RNA** and **stress-response pathways** — integrating high-throughput sequencing data with structured literature mining.
+I'm a **Bioinformatics graduate (M.Sc.)** working where **genomics, structural biology, and machine learning** collide. My research asks a simple question with a hard answer: *can we teach computers to understand why biology behaves the way it does?*
 
-</td>
-<td width="50%" valign="top">
+That question has taken me through **non-coding RNA regulation**, **protein structure & dynamics**, and now — increasingly — **AI models built on top of both**. I don't see ML as a separate skill from wet-lab-adjacent biology; I see it as the next instrument in the toolkit, the same way sequencing was a generation ago.
 
-### 🧪 Structural Bioinformatics & Protein Analysis
-Studying protein structure, stability, and functional dynamics using **structure prediction, validation, and molecular visualisation** to connect structural change with biological function.
+I recently co-authored a review on exactly this convergence — how AI is reshaping genomics research and clinical application — and it shapes how I approach every project since.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-### ⚛️ Molecular Dynamics Simulations
-Running MD simulations to study biomolecular behaviour over time — trajectory analysis via **RMSD**, **radius of gyration (Rg)**, and conformational stability to assess how mutations affect protein function.
+```python
+class Researcher:
+    def __init__(self):
+        self.domain = [
+            "Genomics",
+            "Structural Biology",
+            "Machine Learning"
+        ]
+        self.believes = (
+            "Biology is data. "
+            "AI is how we "
+            "finally read it."
+        )
 
-</td>
-<td width="50%" valign="top">
+    def current_focus(self):
+        return (
+            "AI x Genomics "
+            "for precision "
+            "medicine"
+        )
 
-### 🤖 Machine Learning in Biology
-Building preprocessing pipelines, feature extraction workflows, and model evaluation frameworks for **genomic feature analysis, predictive modelling, and biomarker discovery**.
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🗃️ Biological Database Development
-Organising heterogeneous biological datasets into structured, queryable resources — designing **research-friendly data access frameworks** for large-scale exploration.
+r = Researcher()
+```
 
 </td>
 </tr>
@@ -87,91 +66,136 @@ Organising heterogeneous biological datasets into structured, queryable resource
 
 <br/>
 
-## 🧰 Tech Stack & Tools
+## `02` &nbsp;RESEARCH INTERESTS
 
 <div align="center">
-
-**Languages & Core**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**Structural Biology & Simulation**
-
-![GROMACS](https://img.shields.io/badge/GROMACS-2E8B57?style=for-the-badge)
-![PyMOL](https://img.shields.io/badge/PyMOL-14B8A6?style=for-the-badge)
-![UCSF Chimera](https://img.shields.io/badge/UCSF%20Chimera-6D28D9?style=for-the-badge)
-![AutoDock](https://img.shields.io/badge/AutoDock-DC2626?style=for-the-badge)
-![VMD](https://img.shields.io/badge/VMD-0EA5E9?style=for-the-badge)
-![PROCHECK](https://img.shields.io/badge/PROCHECK-475569?style=for-the-badge)
-
-**Data & ML**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Biopython](https://img.shields.io/badge/Biopython-2E7D32?style=for-the-badge)
-
-</div>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lovekaushik899&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0891b2&icon_color=0891b2&text_color=e2e8f0&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovekaushik899&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0891b2&text_color=e2e8f0" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lovekaushik899&theme=tokyonight&hide_border=true&background=0f172a&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lovekaushik899&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=0891b2&line=0891b2&point=e2e8f0" width="100%"/>
-
-</div>
-
-<br/>
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/lovekaushik899/FASTA-Insight">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lovekaushik899&repo=FASTA-Insight&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0891b2&text_color=e2e8f0&icon_color=0891b2" />
-</a>
-<a href="https://github.com/lovekaushik899/FeatureFlow-ML">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lovekaushik899&repo=FeatureFlow-ML&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0891b2&text_color=e2e8f0&icon_color=0891b2" />
-</a>
-
-<a href="https://github.com/lovekaushik899/BioLove">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lovekaushik899&repo=BioLove&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0891b2&text_color=e2e8f0&icon_color=0891b2" />
-</a>
-
-</div>
-
-| Project | What it does |
-|---|---|
-| 🧬 **[FASTA-Insight](https://github.com/lovekaushik899/FASTA-Insight)** | Python/Bash toolkit for FASTA sequence analysis — composition profiling, GC content, k-mer frequency, and more |
-| ⚙️ **[FeatureFlow-ML](https://github.com/lovekaushik899/FeatureFlow-ML)** | Automated ML pipelines for classification & regression with built-in statistical checks, outlier detection, and feature normalisation |
-| 🧫 **[BioLove](https://github.com/lovekaushik899/BioLove)** | Automated FASTA feature extraction and dataset construction using IFS and Recursive Feature Elimination |
-
-<br/>
-
-## 📚 Publications
 
 <table width="100%">
 <tr>
-<td>📄</td>
+<td align="center" width="33%">
+
+**🧬 Computational Genomics**
+<br/><sub>non-coding RNA · stress-response regulation · sequence-driven biological interpretation</sub>
+
+</td>
+<td align="center" width="33%">
+
+**🧠 AI for Life Sciences**
+<br/><sub>ML on genomic & structural data · biomarker discovery · predictive modelling</sub>
+
+</td>
+<td align="center" width="33%">
+
+**⚛️ Structural Bioinformatics**
+<br/><sub>protein structure prediction · molecular dynamics · mutation impact analysis</sub>
+
+</td>
+</tr>
+<tr><td colspan="3" height="12"></td></tr>
+<tr>
+<td align="center" width="33%">
+
+**💊 Precision Medicine**
+<br/><sub>computational approaches linking genotype, structure & clinical outcome</sub>
+
+</td>
+<td align="center" width="33%">
+
+**🗃️ Biological Databases**
+<br/><sub>structuring heterogeneous datasets into queryable, research-ready resources</sub>
+
+</td>
+<td align="center" width="33%">
+
+**🔄 MD Simulations**
+<br/><sub>RMSD · radius of gyration · conformational stability over time</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## `03` &nbsp;HOW AI SHOWS UP IN MY WORK
+
+<table width="100%">
+<tr><td width="8%" align="center">🔹</td><td><b>Genomic feature analysis</b> — using ML to surface regulatory signals inside large-scale, high-throughput sequencing datasets.</td></tr>
+<tr><td align="center">🔹</td><td><b>Fusion gene & biomarker prediction</b> — ensemble classifiers trained on plant genomic data, published and peer-reviewed.</td></tr>
+<tr><td align="center">🔹</td><td><b>Structure-aware modelling</b> — combining protein structure prediction with MD trajectory data to model how mutations propagate into function.</td></tr>
+<tr><td align="center">🔹</td><td><b>Literature-to-database pipelines</b> — mining biological literature into structured, ML-queryable resources.</td></tr>
+</table>
+
+<br/>
+
+## `04` &nbsp;TOOLKIT
+
+<div align="center">
+
+**Core Languages**
+<br/>
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=22D3AA)
+![R](https://img.shields.io/badge/R-000?style=flat-square&logo=r&logoColor=22D3AA)
+![SQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=22D3AA)
+![Bash](https://img.shields.io/badge/Bash-000?style=flat-square&logo=gnubash&logoColor=22D3AA)
+
+**Machine Learning**
+<br/>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=flat-square&logo=scikitlearn&logoColor=22D3AA)
+![NumPy](https://img.shields.io/badge/NumPy-000?style=flat-square&logo=numpy&logoColor=22D3AA)
+![Pandas](https://img.shields.io/badge/Pandas-000?style=flat-square&logo=pandas&logoColor=22D3AA)
+![Jupyter](https://img.shields.io/badge/Jupyter-000?style=flat-square&logo=jupyter&logoColor=22D3AA)
+
+**Structural & Molecular**
+<br/>
+![GROMACS](https://img.shields.io/badge/GROMACS-000?style=flat-square&logoColor=22D3AA)
+![PyMOL](https://img.shields.io/badge/PyMOL-000?style=flat-square&logoColor=22D3AA)
+![AutoDock](https://img.shields.io/badge/AutoDock-000?style=flat-square&logoColor=22D3AA)
+![VMD](https://img.shields.io/badge/VMD-000?style=flat-square&logoColor=22D3AA)
+![Chimera](https://img.shields.io/badge/UCSF_Chimera-000?style=flat-square&logoColor=22D3AA)
+![PROCHECK](https://img.shields.io/badge/PROCHECK-000?style=flat-square&logoColor=22D3AA)
+
+</div>
+
+<br/>
+
+## `05` &nbsp;FEATURED WORK
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**[FASTA‑Insight](https://github.com/lovekaushik899/FASTA-Insight)**
+<br/><sub>Python/Bash toolkit for sequence statistics, composition profiling, GC content & k‑mer frequency analysis.</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**[FeatureFlow‑ML](https://github.com/lovekaushik899/FeatureFlow-ML)**
+<br/><sub>Automated ML pipelines — statistical checks, outlier detection, feature filtering & normalisation baked in.</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**[BioLove](https://github.com/lovekaushik899/BioLove)**
+<br/><sub>FASTA feature extraction & dataset construction using IFS and Recursive Feature Elimination.</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `06` &nbsp;PUBLICATIONS
+
+<table width="100%">
+<tr>
+<td width="6%">📄</td>
 <td>
 <b>The Intersection of AI and Genomics in Health and Disease: Advancements and Applications</b><br/>
 Kaushik, L., Vivek, A., Arora, S., Hamid, F., Mukherjee, K., Bisht, N., Chaudhary, S., Shukla, J., Nawani, S., & Kumar, S. (2026)<br/>
-<i>Progress in Molecular Biology and Translational Science</i> — <a href="https://doi.org/10.1016/bs.pmbts.2026.01.013">doi.org/10.1016/bs.pmbts.2026.01.013</a>
+<i>Progress in Molecular Biology and Translational Science</i> · <a href="https://doi.org/10.1016/bs.pmbts.2026.01.013">doi.org/10.1016/bs.pmbts.2026.01.013</a>
 </td>
 </tr>
 <tr>
@@ -179,7 +203,7 @@ Kaushik, L., Vivek, A., Arora, S., Hamid, F., Mukherjee, K., Bisht, N., Chaudhar
 <td>
 <b>AraNSdb: A Dedicated Database of Stress-Responsive Non-coding RNAs in Arabidopsis thaliana</b><br/>
 Vivek, A. T., Bhatia, M., Sahu, N., Kaushik, L., et al. (2026)<br/>
-<i>3 Biotech, 16, 90</i> — <a href="https://doi.org/10.1007/s13205-026-04708-z">doi.org/10.1007/s13205-026-04708-z</a>
+<i>3 Biotech, 16, 90</i> · <a href="https://doi.org/10.1007/s13205-026-04708-z">doi.org/10.1007/s13205-026-04708-z</a>
 </td>
 </tr>
 <tr>
@@ -187,41 +211,30 @@ Vivek, A. T., Bhatia, M., Sahu, N., Kaushik, L., et al. (2026)<br/>
 <td>
 <b>PFGPred: A Stack Ensemble Classifier for the Identification of Fusion Genes in Plants</b><br/>
 Hamid, F., Mukherjee, K., Chaudhary, S., Kaushik, L., & Kumar, S. (2026)<br/>
-<i>DNA Research</i>, dsag005 — <a href="https://doi.org/10.1093/dnares/dsag005">doi.org/10.1093/dnares/dsag005</a>
+<i>DNA Research</i>, dsag005 · <a href="https://doi.org/10.1093/dnares/dsag005">doi.org/10.1093/dnares/dsag005</a>
 </td>
 </tr>
 </table>
 
 <br/>
 
-## 🌱 Research Interests
+<img src="https://capsule-render.vercel.app/api?type=rect&color=22D3AA&height=2&section=header" width="100%"/>
+
+## `07` &nbsp;LET'S BUILD SOMETHING
 
 <div align="center">
 
-`Computational Genomics` `Non-coding RNA Biology` `Structural Bioinformatics`
-`Molecular Dynamics Simulations` `Machine Learning in Life Sciences` `Precision Medicine`
+Open to collaborations at the AI × genomics interface — research, tooling, or a good conversation about non-coding RNA.
 
-</div>
+[![Gmail](https://img.shields.io/badge/-Email-000?style=flat-square&logo=gmail&logoColor=22D3AA)](mailto:lovekaushik271@gmail.com)
+[![ORCID](https://img.shields.io/badge/-ORCID-000?style=flat-square&logo=orcid&logoColor=A6CE39)](https://orcid.org/0009-0002-1375-818X)
+[![Blog](https://img.shields.io/badge/-Blog-000?style=flat-square&logo=blogger&logoColor=FF5722)](https://sequencestories.blogspot.com/)
+[![GitHub](https://img.shields.io/badge/-lovekaushik899-000?style=flat-square&logo=github&logoColor=white)](https://github.com/lovekaushik899)
 
 <br/>
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always open to **collaboration, research discussions, and computational biology projects**.
-
-[![Gmail](https://img.shields.io/badge/-lovekaushik271@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:lovekaushik271@gmail.com)
-[![ORCID](https://img.shields.io/badge/-ORCID%20Profile-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-1375-818X)
-[![Blogger](https://img.shields.io/badge/-Sequence%20Stories-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://sequencestories.blogspot.com/)
-[![GitHub](https://img.shields.io/badge/-lovekaushik899-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lovekaushik899)
+<sub>⭐ <i>Computational biology, data-driven life science research, and bioinformatics tool development — in progress.</i></sub>
 
 </div>
 
-<br/>
-
-<div align="center">
-<i>⭐ This profile reflects my ongoing work in computational biology, data-driven life science research, and bioinformatics tool development.</i>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891c2,50:1e3a5f,100:0f172a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,6,12,18,24&height=100&section=footer" width="100%"/>
